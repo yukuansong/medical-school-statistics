@@ -1,0 +1,1523 @@
+
+[
+{
+    "Name": "University of Arizona College of Medicine - Phoenix",
+    "MCAT": 516,
+    "GPA": 3.86,
+    "Applicants": 5685,
+    "Matribulated": 55,
+    "SchoolType": "public",
+    "NewEntrants": 118,
+    "Selected": true
+},
+{
+    "Name": "University of Arizona College of Medicine",
+    "MCAT": 510,
+    "GPA": 3.83,
+    "Applicants": 7675,
+    "Matribulated": 18,
+    "SchoolType": "public",
+    "NewEntrants": 118,
+    "Selected": false
+},
+{
+    "Name": "Frederick P. Whiddon College of Medicine at the University of South Alabama",
+    "MCAT": 510,
+    "GPA": 3.83,
+    "Applicants": 1292,
+    "Matribulated": 5,
+    "SchoolType": "public",
+    "NewEntrants": 74,
+    "Selected": true
+},
+{
+    "Name": "University of Alabama at Birmingham Marnix E. Heersink School of Medicine",
+    "MCAT": 510,
+    "GPA": 3.87,
+    "Applicants": 5152,
+    "Matribulated": 24,
+    "SchoolType": "public",
+    "NewEntrants": 186,
+    "Selected": false
+},
+{
+    "Name": "University of Arkansas for Medical Sciences College of Medicine",
+    "MCAT": 509,
+    "GPA": 3.9,
+    "Applicants": 2560,
+    "Matribulated": 5,
+    "SchoolType": "public",
+    "NewEntrants": 166,
+    "Selected": false
+},
+{
+    "Name": "California Northstate University College of Medicine",
+    "MCAT": 514,
+    "GPA": 3.81,
+    "Applicants": 2218,
+    "Matribulated": 7,
+    "SchoolType": "private",
+    "NewEntrants": 110,
+    "Selected": false
+},
+{
+    "Name": "California University of Science and Medicine-School of Medicine",
+    "MCAT": 514,
+    "GPA": 3.73,
+    "Applicants": 2264,
+    "Matribulated": 3,
+    "SchoolType": "private",
+    "NewEntrants": 129,
+    "Selected": false
+},
+{
+    "Name": "Kaiser Permanente Bernard J. Tyson School of Medicine",
+    "MCAT": 517,
+    "GPA": 3.83,
+    "Applicants": 6409,
+    "Matribulated": 22,
+    "SchoolType": "private",
+    "NewEntrants": 50,
+    "Selected": true
+},
+{
+    "Name": "Keck School of Medicine of the University of Southern California",
+    "MCAT": 517,
+    "GPA": 3.79,
+    "Applicants": 4457,
+    "Matribulated": 32,
+    "SchoolType": "private",
+    "NewEntrants": 186,
+    "Selected": false
+},
+{
+    "Name": "Loma Linda University School of Medicine",
+    "MCAT": 512,
+    "GPA": 3.91,
+    "Applicants": 3638,
+    "Matribulated": 72,
+    "SchoolType": "private",
+    "NewEntrants": 176,
+    "Selected": true
+},
+{
+    "Name": "standford University School of Medicine",
+    "MCAT": 518,
+    "GPA": 3.89,
+    "Applicants": 7146,
+    "Matribulated": 51,
+    "SchoolType": "private",
+    "NewEntrants": 90,
+    "Selected": true
+},
+{
+    "Name": "University of California, Davis, School of Medicine",
+    "MCAT": 511,
+    "GPA": 3.63,
+    "Applicants": 3126,
+    "Matribulated": 5,
+    "SchoolType": "public",
+    "NewEntrants": 132,
+    "Selected": false
+},
+{
+    "Name": "University of California, Irvine, School of Medicine",
+    "MCAT": 515,
+    "GPA": 3.84,
+    "Applicants": 1957,
+    "Matribulated": 11,
+    "SchoolType": "public",
+    "NewEntrants": 104,
+    "Selected": false
+},
+{
+    "Name": "University of California, Los Angeles David Geffen School of Medicine",
+    "MCAT": 516,
+    "GPA": 3.81,
+    "Applicants": 7007,
+    "Matribulated": 61,
+    "SchoolType": "public",
+    "NewEntrants": 175,
+    "Selected": true
+},
+{
+    "Name": "University of California, Riverside School of Medicine",
+    "MCAT": 510,
+    "GPA": 3.68,
+    "Applicants": 1475,
+    "Matribulated": 1,
+    "SchoolType":"public",
+    "NewEntrants": 86,
+    "Selected": false
+},
+{
+    "Name": "University of California, San Diego School of Medicine",
+    "MCAT": 516,
+    "GPA": 3.83,
+    "Applicants": 3932,
+    "Matribulated": 27,
+    "SchoolType":"public",
+    "NewEntrants": 138,
+    "Selected": false
+},
+{
+    "Name": "University of California, San Diego School of Medicine",
+    "MCAT": 517,
+    "GPA": 3.88,
+    "Applicants": 5203,
+    "Matribulated": 36,
+    "SchoolType":"public",
+    "NewEntrants": 177,
+    "Selected": false
+},
+{
+    "Name": "University of Colorado School of Medicine",
+    "MCAT": 515,
+    "GPA": 3.82,
+    "Applicants": 12648,
+    "Matribulated": 94,
+    "SchoolType": "public",
+    "NewEntrants": 182,
+    "Selected": true
+},
+{
+    "Name": "Frank H. Netter MD School of Medicine at Quinnipiac University",
+    "MCAT": 513,
+    "GPA": 3.76,
+    "Applicants": 8702,
+    "Matribulated": 62,
+    "SchoolType": "private",
+    "NewEntrants": 94,
+    "Selected": true
+},
+{
+    "Name": "University of Connecticut School of Medicine",
+    "MCAT": 513,
+    "GPA": 3.82,
+    "Applicants": 3627,
+    "Matribulated": 20,
+    "SchoolType": "public",
+    "NewEntrants": 110,
+    "Selected": true
+},
+{
+    "Name": "Yale School of Medicine",
+    "MCAT": 521,
+    "GPA": 3.93,
+    "Applicants": 6325,
+    "Matribulated": 93,
+    "SchoolType": "private",
+    "NewEntrants": 104,
+    "Selected": true
+},
+{
+    "Name": "George Washington University School of Medicine and Health Sciences",
+    "MCAT": 512,
+    "GPA": 3.74,
+    "Applicants": 16029,
+    "Matribulated": 176,
+    "SchoolType": "private",
+    "NewEntrants": 183,
+    "Selected": true
+},
+{
+    "Name": "Georgetown University School of Medicine",
+    "MCAT": 513,
+    "GPA": 3.73,
+    "Applicants": 16769,
+    "Matribulated": 191,
+    "SchoolType": "private",
+    "NewEntrants": 203,
+    "Selected": true
+},
+{
+    "Name": "Howard University College of Medicine",
+    "MCAT": 507,
+    "GPA": 3.61,
+    "Applicants": 10380,
+    "Matribulated": 109,
+    "SchoolType":"private",
+    "NewEntrants": 122,
+    "Selected": false
+},
+{
+    "Name": "Charles E. Schmidt College of Medicine at Florida Atlantic University",
+    "MCAT": 513,
+    "GPA": 3.8,
+    "Applicants": 3408,
+    "Matribulated": 19,
+    "SchoolType": "public",
+    "NewEntrants": 66,
+    "Selected": true
+},
+{
+    "Name": "Florida International University Herbert Wertheim College of Medicine",
+    "MCAT": 511,
+    "GPA": 3.81,
+    "Applicants": 4387,
+    "Matribulated": 27,
+    "SchoolType":"public",
+    "NewEntrants": 135,
+    "Selected": false
+},
+{
+    "Name": "Florida State University College of Medicine",
+    "MCAT": 507,
+    "GPA": 3.8,
+    "Applicants": 4907,
+    "Matribulated": 3,
+    "SchoolType":"public",
+    "NewEntrants": 120,
+    "Selected": false
+},
+{
+    "Name": "Nova Southeastern University Dr. Kiran C. Patel College of Allopathic Medicine",
+    "MCAT": 512,
+    "GPA": 3.81,
+    "Applicants": 3908,
+    "Matribulated": 23,
+    "SchoolType": "private",
+    "NewEntrants": 51,
+    "Selected": true
+},
+{
+    "Name": "University of Central Florida College of Medicine",
+    "MCAT": 515,
+    "GPA": 3.9,
+    "Applicants": 3128,
+    "Matribulated": 41,
+    "SchoolType": "public",
+    "NewEntrants": 120,
+    "Selected": true
+},
+{
+    "Name": "University of Florida College of Medicine",
+    "MCAT": 518,
+    "GPA": 3.88,
+    "Applicants": 2553,
+    "Matribulated": 20,
+    "SchoolType": "public",
+    "NewEntrants": 163,
+    "Selected": true
+},
+{
+    "Name": "University of Miami Leonard M. Miller School of Medicine",
+    "MCAT": 514,
+    "GPA": 3.81,
+    "Applicants": 8663,
+    "Matribulated": 105,
+    "SchoolType": "private",
+    "NewEntrants": 205,
+    "Selected": true
+},
+{
+    "Name": "USF Health Morsani College of Medicine",
+    "MCAT": 518,
+    "GPA": 3.89,
+    "Applicants": 3481,
+    "Matribulated": 94,
+    "SchoolType": "public",
+    "NewEntrants": 177,
+    "Selected": true
+},
+{
+    "Name": "Emory University School of Medicine",
+    "MCAT": 515,
+    "GPA": 3.8,
+    "Applicants": 12813,
+    "Matribulated": 107,
+    "SchoolType": "private",
+    "NewEntrants": 139,
+    "Selected": true
+},
+{
+    "Name": "Medical College of Georgia at Augusta University",
+    "MCAT": 514,
+    "GPA": 3.84,
+    "Applicants":1896 ,
+    "Matribulated": 4,
+    "SchoolType": "public",
+    "NewEntrants": 260,
+    "Selected": false
+},
+{
+    "Name": "Mercer University School of Medicine",
+    "MCAT": 505,
+    "GPA": 3.71,
+    "Applicants": 1,
+    "Matribulated": 0,
+    "SchoolType": "private",
+    "NewEntrants": 151,
+    "Selected": false
+},
+{
+    "Name": "Morehouse School of Medicine",
+    "MCAT": 506,
+    "GPA": 3.68,
+    "Applicants": 7333,
+    "Matribulated": 42,
+    "SchoolType": "private",
+    "NewEntrants": 110,
+    "Selected": true
+},
+{
+    "Name": "University of Hawaii, John A. Burns School of Medicine",
+    "MCAT": 514,
+    "GPA": 3.83,
+    "Applicants": 2278,
+    "Matribulated": 15,
+    "SchoolType": "public",
+    "NewEntrants": 77,
+    "Selected": true
+},
+{
+    "Name": "Carle Illinois College of Medicine",
+    "MCAT": 513,
+    "GPA": 3.73,
+    "Applicants": 1959,
+    "Matribulated": 37,
+    "SchoolType": "public",
+    "NewEntrants": 47,
+    "Selected": true
+},
+{
+    "Name": "Chicago Medical School at Rosalind Franklin University of Medicine & Science",
+    "MCAT": 514,
+    "GPA": 3.78,
+    "Applicants": 12485,
+    "Matribulated": 92,
+    "SchoolType": "private",
+    "NewEntrants": 188,
+    "Selected": true
+},
+{
+    "Name": "Loyola University Chicago Stritch School of Medicine",
+    "MCAT": 512,
+    "GPA": 3.78,
+    "Applicants": 14103,
+    "Matribulated": 129,
+    "SchoolType": "private",
+    "NewEntrants": 170,
+    "Selected": true
+},
+{
+    "Name": "Northwestern University The Feinberg School of Medicine",
+    "MCAT": 520,
+    "GPA": 3.92,
+    "Applicants": 6792,
+    "Matribulated": 130,
+    "SchoolType": "private",
+    "NewEntrants": 160,
+    "Selected": true
+},
+{
+    "Name": "Rush Medical College of Rush University Medical Center",
+    "MCAT": 511,
+    "GPA": 3.7,
+    "Applicants": 9953,
+    "Matribulated": 105,
+    "SchoolType": "private",
+    "NewEntrants": 152,
+    "Selected": true
+},
+{
+    "Name": "Southern Illinois University School of Medicine",
+    "MCAT": 508,
+    "GPA": 3.82,
+    "Applicants": 41,
+    "Matribulated": 0,
+    "SchoolType": "public",
+    "NewEntrants": 78,
+    "Selected": false
+},
+{
+    "Name": "University of Chicago Division of the Biological Sciences The Pritzker School of Medicine",
+    "MCAT": 521,
+    "GPA": 3.93,
+    "Applicants": 5991 ,
+    "Matribulated": 70,
+    "SchoolType": "private",
+    "NewEntrants": 90,
+    "Selected": true
+},
+{
+    "Name": "University of Illinois College of Medicine",
+    "MCAT": 511,
+    "GPA": 3.7,
+    "Applicants": 5098,
+    "Matribulated": 80,
+    "SchoolType": "public",
+    "NewEntrants": 315,
+    "Selected": true
+},
+{
+    "Name": "Indiana University School of Medicine",
+    "MCAT": 513,
+    "GPA": 3.87,
+    "Applicants": 6322,
+    "Matribulated": 50,
+    "SchoolType": "public",
+    "NewEntrants": 366,
+    "Selected": true
+},
+{
+    "Name": "University of Iowa Roy J. and Lucille A. Carver College of Medicine",
+    "MCAT": 517,
+    "GPA": 3.9,
+    "Applicants": 3843,
+    "Matribulated": 51,
+    "SchoolType": "public",
+    "NewEntrants": 152,
+    "Selected": true
+},
+{
+    "Name": "University of Kansas School of Medicine",
+    "MCAT": 510,
+    "GPA": 3.88,
+    "Applicants": 2695,
+    "Matribulated": 29,
+    "SchoolType": "public",
+    "NewEntrants": 211,
+    "Selected": true
+},
+{
+    "Name": "University of Kentucky College of Medicine",
+    "MCAT": 507,
+    "GPA": 3.83,
+    "Applicants": 3082,
+    "Matribulated": 35,
+    "SchoolType": "public",
+    "NewEntrants": 201,
+    "Selected": true
+},
+{
+    "Name": "University of Louisville School of Medicine",
+    "MCAT": 508,
+    "GPA": 3.77,
+    "Applicants": 4534,
+    "Matribulated": 44,
+    "SchoolType": "public",
+    "NewEntrants": 161,
+    "Selected": true
+},
+{
+    "Name": "Louisiana State University School of Medicine in Shreveport",
+    "MCAT": 506,
+    "GPA": 3.81,
+    "Applicants": 4946,
+    "Matribulated": 9,
+    "SchoolType": "public",
+    "NewEntrants": 150,
+    "Selected": false
+},
+{
+    "Name": "Tulane University School of Medicine",
+    "MCAT": 510,
+    "GPA": 3.65,
+    "Applicants": 15775,
+    "Matribulated": 150,
+    "SchoolType": "private",
+    "NewEntrants": 190,
+    "Selected": true
+},
+{
+    "Name": "Johns Hopkins University School of Medicine",
+    "MCAT": 522,
+    "GPA": 3.95,
+    "Applicants": 446,
+    "Matribulated": 10,
+    "SchoolType": "private",
+    "NewEntrants": 120,
+    "Selected": true
+},
+{
+    "Name": "Uniformed Services University of the Health Sciences F. Edward Hebert School of Medicine",
+    "MCAT": 511,
+    "GPA": 377,
+    "Applicants": 231,
+    "Matribulated": 19,
+    "SchoolType": "public",
+    "NewEntrants": 174,
+    "Selected": true
+},
+{
+    "Name": "University of Maryland School of Medicine",
+    "MCAT": 514,
+    "GPA": 3.83,
+    "Applicants": 1162,
+    "Matribulated": 117,
+    "SchoolType": "public",
+    "NewEntrants": 140,
+    "Selected": true
+},
+{
+    "Name": "Boston University School of Medicine",
+    "MCAT": 519,
+    "GPA": 3.86,
+    "Applicants": 10187,
+    "Matribulated": 127,
+    "SchoolType": "private",
+    "NewEntrants": 161,
+    "Selected": true
+},
+{
+    "Name": "Harvard Medical School",
+    "MCAT": 520,
+    "GPA": 3.95,
+    "Applicants": 7883,
+    "Matribulated": 134,
+    "SchoolType": "private",
+    "NewEntrants": 164,
+    "Selected": true
+},
+{
+    "Name": "Tufts University School of Medicine",
+    "MCAT": 515,
+    "GPA": 3.8,
+    "Applicants": 13742,
+    "Matribulated": 151,
+    "SchoolType": "private",
+    "NewEntrants": 195,
+    "Selected": true
+},
+{
+    "Name": "University of Massachusetts T.H. Chan School of Medicine",
+    "MCAT": 516,
+    "GPA": 3.82,
+    "Applicants": 3913,
+    "Matribulated": 54,
+    "SchoolType": "public",
+    "NewEntrants": 162,
+    "Selected": true
+},
+{
+    "Name": "Central Michigan University College of Medicine",
+    "MCAT": 508,
+    "GPA": 3.69,
+    "Applicants": 5305,
+    "Matribulated": 25,
+    "SchoolType": "public",
+    "NewEntrants": 104,
+    "Selected": true
+},
+{
+    "Name": "Michigan State University College of Human Medicine",
+    "MCAT": 510,
+    "GPA": 3.77,
+    "Applicants": 8936,
+    "Matribulated": 29,
+    "SchoolType": "public",
+    "NewEntrants": 190,
+    "Selected": false
+},
+{
+    "Name": "Oakland University William Beaumont School of Medicine",
+    "MCAT": 510,
+    "GPA": 3.86,
+    "Applicants": 6486,
+    "Matribulated": 61,
+    "SchoolType": "public",
+    "NewEntrants": 125,
+    "Selected": true
+},
+{
+    "Name": "University of Michigan Medical School",
+    "MCAT": 519,
+    "GPA": 3.87,
+    "Applicants": 9129,
+    "Matribulated": 104,
+    "SchoolType": "public",
+    "NewEntrants": 170,
+    "Selected": true
+},
+{
+    "Name": "Wayne State University School of Medicine",
+    "MCAT": 513,
+    "GPA": 3.81,
+    "Applicants": 7688,
+    "Matribulated": 119,
+    "SchoolType": "public",
+    "NewEntrants": 304,
+    "Selected": true
+},
+{
+    "Name": "Western Michigan University Homer Stryker M.D. School of Medicine",
+    "MCAT": 515,
+    "GPA": 3.85,
+    "Applicants": 3020,
+    "Matribulated": 56,
+    "SchoolType": "private",
+    "NewEntrants": 84,
+    "Selected": true
+},
+{
+    "Name": "Mayo Clinic Alix School of Medicine",
+    "MCAT": 520,
+    "GPA": 3.93,
+    "Applicants": 4789,
+    "Matribulated": 94,
+    "SchoolType": "private",
+    "NewEntrants": 106,
+    "Selected": true
+},
+{
+    "Name": "University of Minnesota Medical School",
+    "MCAT": 512,
+    "GPA": 3.8,
+    "Applicants": 5760,
+    "Matribulated": 52,
+    "SchoolType": "public",
+    "NewEntrants": 239,
+    "Selected": true
+},
+{
+    "Name": "Saint Louis University School of Medicine",
+    "MCAT": 515,
+    "GPA": 3.91,
+    "Applicants": 7095,
+    "Matribulated": 137,
+    "SchoolType": "private",
+    "NewEntrants": 180,
+    "Selected": true
+},
+{
+    "Name": "University of Missouri-Columbia School of Medicine",
+    "MCAT": 510,
+    "GPA": 3.85,
+    "Applicants": 2434,
+    "Matribulated": 15,
+    "SchoolType": "public",
+    "NewEntrants": 128,
+    "Selected": false
+},
+{
+    "Name": "University of Missouri-Kansas City School of Medicine",
+    "MCAT": 510,
+    "GPA": 3.85,
+    "Applicants": 1679,
+    "Matribulated": 53,
+    "SchoolType": "public",
+    "NewEntrants": 146,
+    "Selected": true
+},
+{
+    "Name": "Washington University in St. Louis School of Medicine",
+    "MCAT": 521,
+    "GPA": 3.93,
+    "Applicants": 4917,
+    "Matribulated": 96,
+    "SchoolType": "private",
+    "NewEntrants": 123,
+    "Selected": true
+},
+{
+    "Name": "University of Mississippi School of Medicine",
+    "MCAT": 506,
+    "GPA": 3.88,
+    "Applicants": 4,
+    "Matribulated": 0,
+    "SchoolType": "public",
+    "NewEntrants": 165,
+    "Selected": false
+},
+{
+    "Name": "Creighton University School of Medicine",
+    "MCAT": 514,
+    "GPA": 3.85,
+    "Applicants": 6845,
+    "Matribulated": 217,
+    "SchoolType": "private",
+    "NewEntrants": 230,
+    "Selected": true
+},
+{
+    "Name": "University of Nebraska College of Medicine",
+    "MCAT": 513,
+    "GPA": 3.91,
+    "Applicants": 1584,
+    "Matribulated": 25,
+    "SchoolType": "public",
+    "NewEntrants": 133,
+    "Selected": true
+},
+{
+    "Name": "Kirk Kerkorian School of Medicine at UNLV",
+    "MCAT": 510,
+    "GPA": 3.83,
+    "Applicants": 1666,
+    "Matribulated": 10,
+    "SchoolType": "public",
+    "NewEntrants": 60,
+    "Selected": true
+},
+{
+    "Name": "University of Nevada, Reno School of Medicine",
+    "MCAT": 509,
+    "GPA": 3.77,
+    "Applicants": 1299,
+    "Matribulated": 10 ,
+    "SchoolType": "public",
+    "NewEntrants": 70,
+    "Selected": true
+},
+{
+    "Name": "University of Nevada, Reno School of Medicine",
+    "MCAT": 516,
+    "GPA": 3.8,
+    "Applicants": 9400,
+    "Matribulated":74 ,
+    "SchoolType": "private",
+    "NewEntrants": 92,
+    "Selected": true
+},
+{
+    "Name": "University of Nevada, Reno School of Medicine",
+    "MCAT": 513,
+    "GPA":3.84 ,
+    "Applicants": 4666,
+    "Matribulated": 31,
+    "SchoolType": "public",
+    "NewEntrants": 111,
+    "Selected": true
+},
+{
+    "Name": "University of Nevada, Reno School of Medicine",
+    "MCAT": 513,
+    "GPA": 3.71,
+    "Applicants": 4770,
+    "Matribulated": 65,
+    "SchoolType": "private",
+    "NewEntrants": 157,
+    "Selected": true
+},
+{
+    "Name": "Rutgers New Jersey Medical School",
+    "MCAT": 516,
+    "GPA": 3.82,
+    "Applicants": 4542,
+    "Matribulated": 30,
+    "SchoolType": "public",
+    "NewEntrants": 178,
+    "Selected": true
+},
+{
+    "Name": "Rutgers, Robert Wood Johnson Medical School",
+    "MCAT": 513,
+    "GPA": 3.75,
+    "Applicants": 4497,
+    "Matribulated": 33,
+    "SchoolType": "public",
+    "NewEntrants": 165,
+    "Selected": true
+},
+{
+    "Name": "Hackensack Meridian School of Medicine",
+    "MCAT": 513,
+    "GPA": 3.71,
+    "Applicants": 4770,
+    "Matribulated": 65,
+    "SchoolType": "private",
+    "NewEntrants": 157,
+    "Selected": true
+},
+{
+    "Name": "Cooper Medical School of Rowan University",
+    "MCAT": 513,
+    "GPA": 3.84,
+    "Applicants": 4668,
+    "Matribulated": 31,
+    "SchoolType": "public",
+    "NewEntrants": 111,
+    "Selected": true
+},
+{
+    "Name": "University of New Mexico School of Medicine",
+    "MCAT": 506,
+    "GPA": 3.75,
+    "Applicants": 1499,
+    "Matribulated": 7,
+    "SchoolType": "public",
+    "NewEntrants": 103,
+    "Selected": false
+},
+{
+    "Name": "Albany Medical College",
+    "MCAT": 510,
+    "GPA": 3.73,
+    "Applicants": 11502,
+    "Matribulated": 95,
+    "SchoolType": "private",
+    "NewEntrants": 143,
+    "Selected": true
+},
+{
+    "Name": "Albert Einstein College of Medicine",
+    "MCAT": 516,
+    "GPA": 3.82,
+    "Applicants": 7714,
+    "Matribulated": 84,
+    "SchoolType": "private",
+    "NewEntrants": 183,
+    "Selected": true
+},
+{
+    "Name": "Columbia University Vagelos College of Physicians and Surgeons",
+    "MCAT": 521,
+    "GPA": 3.93,
+    "Applicants": 6328,
+    "Matribulated": 108,
+    "SchoolType": "private",
+    "NewEntrants": 138,
+    "Selected": true
+},
+{
+    "Name": "CUNY School of Medicine",
+    "MCAT": null,
+    "GPA": null,
+    "Applicants": 0,
+    "Matribulated": 0,
+    "SchoolType": "public",
+    "NewEntrants": 71,
+    "Selected": false
+},
+{
+    "Name": "Donald and Barbara Zucker School of Medicine at Hofstra/Northwell",
+    "MCAT": 519,
+    "GPA":3.84 ,
+    "Applicants": 4221,
+    "Matribulated": 49,
+    "SchoolType": "private",
+    "NewEntrants": 99,
+    "Selected": true
+},
+{
+    "Name": "Icahn School of Medicine at Mount Sinai",
+    "MCAT": 519,
+    "GPA": 3.86,
+    "Applicants": 6546,
+    "Matribulated": 78,
+    "SchoolType": "private",
+    "NewEntrants": 120,
+    "Selected": true
+},
+{
+    "Name": "Jacobs School of Medicine and Biomedical Sciences at the University at Buffalo",
+    "MCAT": 511,
+    "GPA": 3.72,
+    "Applicants": 3665,
+    "Matribulated": 22,
+    "SchoolType": "public",
+    "NewEntrants": 184,
+    "Selected": true
+},
+{
+    "Name": "New York Medical College",
+    "MCAT": 514,
+    "GPA": 3.7,
+    "Applicants": 11815,
+    "Matribulated": 91,
+    "SchoolType": "private",
+    "NewEntrants": 211,
+    "Selected": true
+},
+{
+    "Name": "New York University Long Island School of Medicine",
+    "MCAT": 516,
+    "GPA": 3.83,
+    "Applicants": 3011,
+    "Matribulated":9 ,
+    "SchoolType": "private",
+    "NewEntrants": 24,
+    "Selected": false
+},
+{
+    "Name": "NYU Grossman School of Medicine",
+    "MCAT": 522,
+    "GPA": 3.96,
+    "Applicants": 8076,
+    "Matribulated": 92,
+    "SchoolType": "private",
+    "NewEntrants": 108,
+    "Selected": true
+},
+{
+    "Name": "Renaissance School of Medicine at Stony Brook University",
+    "MCAT": 517,
+    "GPA": 3.86,
+    "Applicants": 2886,
+    "Matribulated": 32,
+    "SchoolType": "public",
+    "NewEntrants": 136,
+    "Selected": true
+},
+{
+    "Name": "State University of New York Upstate Medical University Alan and Marlene Norton College of Medicine",
+    "MCAT": 514,
+    "GPA": 3.79,
+    "Applicants": 2504,
+    "Matribulated": 43,
+    "SchoolType": "public",
+    "NewEntrants": 171,
+    "Selected": true
+},
+{
+    "Name": "SUNY Downstate Health Sciences University College of Medicine",
+    "MCAT": 513,
+    "GPA": 3.73,
+    "Applicants": 3759,
+    "Matribulated": 24,
+    "SchoolType": "public",
+    "NewEntrants": 199,
+    "Selected": false
+},
+{
+    "Name": "University of Rochester School of Medicine and Dentistry",
+    "MCAT": 517,
+    "GPA": 3.86,
+    "Applicants": 5046,
+    "Matribulated": 68,
+    "SchoolType": "private",
+    "NewEntrants": 104,
+    "Selected": true
+},
+{
+    "Name": "Weill Cornell Medicine",
+    "MCAT": 520,
+    "GPA": 3.93,
+    "Applicants": 6029,
+    "Matribulated": 79,
+    "SchoolType": "private",
+    "NewEntrants": 106,
+    "Selected": true
+},
+{
+    "Name": "Wake Forest University School of Medicine",
+    "MCAT": 512,
+    "GPA": 3.75,
+    "Applicants": 9858,
+    "Matribulated": 102,
+    "SchoolType": "private",
+    "NewEntrants": 145,
+    "Selected": true
+},
+{
+    "Name": "University of North Carolina at Chapel Hill School of Medicine",
+    "MCAT": 515,
+    "GPA": 3.8,
+    "Applicants": 5024,
+    "Matribulated": 28,
+    "SchoolType": "public",
+    "NewEntrants": 190,
+    "Selected": false
+},
+{
+    "Name": "Duke University School of Medicine",
+    "MCAT": 519,
+    "GPA": 3.9,
+    "Applicants": 7861,
+    "Matribulated": 98,
+    "SchoolType": "private",
+    "NewEntrants": 123,
+    "Selected": true
+},
+{
+    "Name": "Brody School of Medicine at East Carolina University",
+    "MCAT": 508,
+    "GPA": 3.63,
+    "Applicants": 3,
+    "Matribulated": 0,
+    "SchoolType": "public",
+    "NewEntrants": 86,
+    "Selected": false
+},
+{
+    "Name": "University of North Dakota School of Medicine and Health Sciences",
+    "MCAT": 509,
+    "GPA": 3.88,
+    "Applicants": 1948,
+    "Matribulated": 39,
+    "SchoolType": "public",
+    "NewEntrants": 73,
+    "Selected": true
+},
+{
+    "Name": "Case Western Reserve University School of Medicine",
+    "MCAT": 518,
+    "GPA": 3.86,
+    "Applicants": 7230,
+    "Matribulated":176 ,
+    "SchoolType": "private",
+    "NewEntrants": 216,
+    "Selected": true
+},
+{
+    "Name": "Northeast Ohio Medical University",
+    "MCAT": 509,
+    "GPA": 3.78,
+    "Applicants": 3557,
+    "Matribulated": 45,
+    "SchoolType": "public",
+    "NewEntrants": 158,
+    "Selected": true
+},
+{
+    "Name": "Ohio State University College of Medicine",
+    "MCAT": 516,
+    "GPA": 3.89,
+    "Applicants": 6782,
+    "Matribulated": 77,
+    "SchoolType": "public",
+    "NewEntrants": 203,
+    "Selected": true
+},
+{
+    "Name": "The University of Toledo College of Medicine and Life Sciences",
+    "MCAT": 511,
+    "GPA": 3.76,
+    "Applicants": 5344,
+    "Matribulated": 45,
+    "SchoolType": "public",
+    "NewEntrants": 175,
+    "Selected": true
+},
+{
+    "Name": "University of Cincinnati College of Medicine",
+    "MCAT": 517,
+    "GPA": 3.83,
+    "Applicants": 4845,
+    "Matribulated": 105,
+    "SchoolType": "public",
+    "NewEntrants": 180,
+    "Selected": true
+},
+{
+    "Name": "Wright State University Boonshoft School of Medicine",
+    "MCAT": 508,
+    "GPA": 3.77,
+    "Applicants": 7661,
+    "Matribulated":21 ,
+    "SchoolType": "public",
+    "NewEntrants": 128,
+    "Selected": false
+},
+{
+    "Name": "University of Oklahoma College of Medicine",
+    "MCAT":510 ,
+    "GPA": 3.87,
+    "Applicants": 2299,
+    "Matribulated": 7,
+    "SchoolType": "public",
+    "NewEntrants": 163,
+    "Selected": false
+},
+{
+    "Name": "Oregon Health & Science University School of Medicine",
+    "MCAT": 512,
+    "GPA": 3.76,
+    "Applicants": 6799,
+    "Matribulated": 40,
+    "SchoolType": "public",
+    "NewEntrants": 140,
+    "Selected": false
+},
+{
+    "Name": "Drexel University College of Medicine",
+    "MCAT": 512,
+    "GPA": 3.79,
+    "Applicants": 15382,
+    "Matribulated": 207,
+    "SchoolType": "private",
+    "NewEntrants": 303,
+    "Selected": true
+},
+{
+    "Name": "Geisinger Commonwealth School of Medicine",
+    "MCAT": 513,
+    "GPA": 3.8,
+    "Applicants": 5932,
+    "Matribulated": 34,
+    "SchoolType": "private",
+    "NewEntrants": 114,
+    "Selected": true
+},
+{
+    "Name": "Lewis Katz School of Medicine at Temple University",
+    "MCAT": 512,
+    "GPA": 3.74,
+    "Applicants": 13160,
+    "Matribulated": 130,
+    "SchoolType": "private",
+    "NewEntrants": 219,
+    "Selected": true
+},
+{
+    "Name": "Pennsylvania State University College of Medicine",
+    "MCAT": 512,
+    "GPA": 3.82,
+    "Applicants": 11366,
+    "Matribulated": 71,
+    "SchoolType": "private",
+    "NewEntrants": 151,
+    "Selected": true
+},
+{
+    "Name": "Perelman School of Medicine at the University of Pennsylvania",
+    "MCAT": 522,
+    "GPA": 3.95,
+    "Applicants": 6142,
+    "Matribulated": 132,
+    "SchoolType": "private",
+    "NewEntrants": 156,
+    "Selected": true
+},
+{
+    "Name": "Sidney Kimmel Medical College at Thomas Jefferson University",
+    "MCAT": 514,
+    "GPA": 3.82,
+    "Applicants": 9722,
+    "Matribulated": 187,
+    "SchoolType": "private",
+    "NewEntrants": 275,
+    "Selected": true
+},
+{
+    "Name": "University of Pittsburgh School of Medicine",
+    "MCAT": 517,
+    "GPA": 3.86,
+    "Applicants": 7148,
+    "Matribulated": 94,
+    "SchoolType": "private",
+    "NewEntrants": 158,
+    "Selected": true
+},
+{
+    "Name": "The Warren Alpert Medical School of Brown University",
+    "MCAT": 516,
+    "GPA": 3.86,
+    "Applicants":8711 ,
+    "Matribulated": 120,
+    "SchoolType": "private",
+    "NewEntrants": 144,
+    "Selected": true
+},
+{
+    "Name": "Medical University of South Carolina College of Medicine",
+    "MCAT": 511,
+    "GPA": 3.85,
+    "Applicants": 3112,
+    "Matribulated": 18,
+    "SchoolType": "public",
+    "NewEntrants": 169,
+    "Selected": false
+},
+{
+    "Name": "University of South Carolina School of Medicine Columbia",
+    "MCAT": 510,
+    "GPA": 3.83,
+    "Applicants": 2565,
+    "Matribulated": 24,
+    "SchoolType": "public",
+    "NewEntrants": 100,
+    "Selected": true
+},
+{
+    "Name": "University of South Carolina School of Medicine Greenville",
+    "MCAT": 511,
+    "GPA": 3.81,
+    "Applicants": 3224,
+    "Matribulated": 38,
+    "SchoolType": "public",
+    "NewEntrants": 108,
+    "Selected": true
+},
+{
+    "Name": "University of South Dakota, Sanford School of Medicine",
+    "MCAT": 508,
+    "GPA": 3.82,
+    "Applicants": 858,
+    "Matribulated": 23,
+    "SchoolType": "public",
+    "NewEntrants": 68,
+    "Selected": true
+},
+{
+    "Name": "Vanderbilt University School of Medicine",
+    "MCAT": 521,
+    "GPA": 3.95,
+    "Applicants": 6547,
+    "Matribulated": 77,
+    "SchoolType": "private",
+    "NewEntrants": 95,
+    "Selected": true
+},
+{
+    "Name": "Meharry Medical College ",
+    "MCAT": 503,
+    "GPA":3.46 ,
+    "Applicants": 8836,
+    "Matribulated": 91,
+    "SchoolType": "private",
+    "NewEntrants": 114,
+    "Selected": true
+},
+{
+    "Name": "University of Tennessee Health Science Center College of Medicine",
+    "MCAT": 513,
+    "GPA": 3.9,
+    "Applicants": 2176,
+    "Matribulated": 11,
+    "SchoolType": "public",
+    "NewEntrants": 176,
+    "Selected": false
+},
+{
+    "Name": "East Tennessee State University James H. Quillen College of Medicine",
+    "MCAT": 509,
+    "GPA": 3.79,
+    "Applicants": 2300,
+    "Matribulated": 13,
+    "SchoolType": "public",
+    "NewEntrants": 79,
+    "Selected": false
+},
+{
+    "Name": "Anne Burnett Marion School of Medicine at TCU",
+    "MCAT": 510,
+    "GPA": 3.67,
+    "Applicants": 6210,
+    "Matribulated": 37,
+    "SchoolType": "private",
+    "NewEntrants": 60,
+    "Selected": false
+},
+{
+    "Name": "Baylor College of Medicine",
+    "MCAT": 518,
+    "GPA": 3.92,
+    "Applicants": 5198,
+    "Matribulated": 26,
+    "SchoolType": "private",
+    "NewEntrants": 186,
+    "Selected": false
+},
+{
+    "Name": "McGovern Medical School at the University of Texas Health Science Center at Houston",
+    "MCAT": 514,
+    "GPA": 3.89,
+    "Applicants": 1544,
+    "Matribulated": 12,
+    "SchoolType": "public",
+    "NewEntrants": 240,
+    "Selected": false
+},
+{
+    "Name": "Texas A&M University School of Medicine",
+    "MCAT": 513,
+    "GPA": 3.86,
+    "Applicants":1680 ,
+    "Matribulated": 38,
+    "SchoolType": "public",
+    "NewEntrants": 226,
+    "Selected": true
+},
+{
+    "Name": "Texas Tech University Health Sciences Center Paul L. Foster School of Medicine",
+    "MCAT": 513,
+    "GPA": 3.89,
+    "Applicants": 1018,
+    "Matribulated": 13,
+    "SchoolType": "public",
+    "NewEntrants": 117,
+    "Selected": true
+},
+{
+    "Name": "Texas Tech University Health Sciences Center School of Medicine",
+    "MCAT": 512,
+    "GPA": 3.9,
+    "Applicants": 1148,
+    "Matribulated": 12,
+    "SchoolType": "public",
+    "NewEntrants": 180,
+    "Selected": true
+},
+{
+    "Name": "The University of Texas Health Science Center at San Antonio Joe R. and Teresa Lozano Long School of Medicine",
+    "MCAT": 519,
+    "GPA": 3.92,
+    "Applicants": 1474,
+    "Matribulated": 31,
+    "SchoolType": "public",
+    "NewEntrants": 214,
+    "Selected": true
+},
+{
+    "Name": "University of Houston Tilman J. Fertitta Family College of Medicine",
+    "MCAT": 506,
+    "GPA": 3.59,
+    "Applicants": 1176,
+    "Matribulated": 1,
+    "SchoolType": "public",
+    "NewEntrants": 30,
+    "Selected": false
+},
+{
+    "Name": "University of Texas at Austin Dell Medical School",
+    "MCAT": 516,
+    "GPA": 3.86,
+    "Applicants":1357 ,
+    "Matribulated": 1,
+    "SchoolType": "public",
+    "NewEntrants": 50,
+    "Selected": false
+},
+{
+    "Name": "University of Texas Medical Branch John Sealy School of Medicine",
+    "MCAT": 513,
+    "GPA": 3.89,
+    "Applicants": 1231,
+    "Matribulated": 17,
+    "SchoolType": "public",
+    "NewEntrants": 230,
+    "Selected": true
+},
+{
+    "Name": "University of Texas Southwestern Medical School",
+    "MCAT": 518,
+    "GPA": 3.92,
+    "Applicants": 1594,
+    "Matribulated": 21,
+    "SchoolType": "public",
+    "NewEntrants": 231,
+    "Selected": true
+},
+{
+    "Name": "University of Texas Rio Grande Valley School of Medicine",
+    "MCAT": 508,
+    "GPA": 3.69,
+    "Applicants": 962,
+    "Matribulated": 2,
+    "SchoolType": "public",
+    "NewEntrants": 58,
+    "Selected": false
+},
+{
+    "Name": "Spencer Fox Eccles School of Medicine at the University of Utah",
+    "MCAT": 514,
+    "GPA": 3.87,
+    "Applicants": 2847,
+    "Matribulated": 38,
+    "SchoolType": "public",
+    "NewEntrants": 125,
+    "Selected": true
+},
+{
+    "Name": "Robert Larner, M.D., College of Medicine at the University of Vermont",
+    "MCAT": 513,
+    "GPA": 3.76,
+    "Applicants": 8680,
+    "Matribulated": 94,
+    "SchoolType": "public",
+    "NewEntrants": 124,
+    "Selected": true
+},
+{
+    "Name": "Eastern Virginia Medical School",
+    "MCAT": 513,
+    "GPA": 3.72,
+    "Applicants": 7630,
+    "Matribulated": 74,
+    "SchoolType": "public",
+    "NewEntrants": 151,
+    "Selected": true
+},
+{
+    "Name": "University of Virginia School of Medicine",
+    "MCAT": 520,
+    "GPA": 3.94,
+    "Applicants": 5216,
+    "Matribulated": 84,
+    "SchoolType": "public",
+    "NewEntrants": 159,
+    "Selected": true
+},
+{
+    "Name": "Virginia Commonwealth University School of Medicine",
+    "MCAT": 514,
+    "GPA": 3.84,
+    "Applicants": 6453,
+    "Matribulated": 77,
+    "SchoolType": "public",
+    "NewEntrants": 186,
+    "Selected": true
+},
+{
+    "Name": "Virginia Tech Carilion School of Medicine",
+    "MCAT": 512,
+    "GPA": 3.61,
+    "Applicants": 5531,
+    "Matribulated": 37,
+    "SchoolType": "public",
+    "NewEntrants": 49,
+    "Selected": true
+},
+{
+    "Name": "University of Washington School of Medicine",
+    "MCAT": 511,
+    "GPA": 3.75,
+    "Applicants": 8342,
+    "Matribulated": 126,
+    "SchoolType": "public",
+    "NewEntrants": 270,
+    "Selected": true
+},
+{
+    "Name": "Washington State University Elson S. Floyd College of Medicine",
+    "MCAT": 508,
+    "GPA": 3.61,
+    "Applicants": 777,
+    "Matribulated": 7,
+    "SchoolType": "public",
+    "NewEntrants": 80,
+    "Selected": true
+},
+{
+    "Name": "West Virginia University School of Medicine",
+    "MCAT": 511,
+    "GPA": 3.83,
+    "Applicants": 4414,
+    "Matribulated": 47,
+    "SchoolType": "public",
+    "NewEntrants": 112,
+    "Selected": true
+},
+{
+    "Name": "Marshall University Joan C. Edwards School of Medicine",
+    "MCAT": 505,
+    "GPA": 3.76,
+    "Applicants": 2118,
+    "Matribulated": 17,
+    "SchoolType": "public",
+    "NewEntrants": 80,
+    "Selected": true
+},
+{
+    "Name": "University of Wisconsin School of Medicine and Public Health",
+    "MCAT": 512,
+    "GPA": 3.72,
+    "Applicants": 5627,
+    "Matribulated": 49,
+    "SchoolType": "public",
+    "NewEntrants": 171,
+    "Selected": true
+},
+{
+    "Name": "Medical College of Wisconsin",
+    "MCAT": 511,
+    "GPA": 3.75,
+    "Applicants": 9915,
+    "Matribulated": 112,
+    "SchoolType": "private",
+    "NewEntrants": 265,
+    "Selected": true
+}
+]
